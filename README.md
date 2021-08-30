@@ -2,6 +2,12 @@
 
 This is a HTML 5 admin/backend/dashboard template using just Bootstrap 5. As of now there is only one template with the basic skeleton inside `basic` folder. The assets are inside `assets` folder. I am planning to keep this just as a basic template and not add other plugin/library dependencies except bootstrap.
 
+## Demo
+
+1. [Basic Template](https://pravnkay.github.io/BareBoard/basic/)
+
+## Screenshots
+
 ![Desktop View](https://raw.githubusercontent.com/pravnkay/BareBoard/main/screenshots/1.jpg)
 ![Mobile View](https://raw.githubusercontent.com/pravnkay/BareBoard/main/screenshots/2.jpg)
 ![Mobile view with menu open](https://raw.githubusercontent.com/pravnkay/BareBoard/main/screenshots/3.jpg)
